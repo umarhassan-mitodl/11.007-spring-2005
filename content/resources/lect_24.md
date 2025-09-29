@@ -5,6 +5,8 @@ description: This resource contains question on collabration and provide informa
 file: /courses/11-007-resolving-public-disputes-spring-2005/cec9c3ad7a529fdfad9433e44bbb8143_lect_24.pdf
 file_size: 12035
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

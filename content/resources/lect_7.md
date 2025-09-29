@@ -5,6 +5,8 @@ description: THis resource explains the policy process and rational, incremental
 file: /courses/11-007-resolving-public-disputes-spring-2005/00753d611bddcd4484ed02d25af506e2_lect_7.pdf
 file_size: 11703
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

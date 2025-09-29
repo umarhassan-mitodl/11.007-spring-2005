@@ -6,6 +6,8 @@ description: This resource contains instructions about writing essay assignment 
 file: /courses/11-007-resolving-public-disputes-spring-2005/1d2738996a09a83467509ed2cc3a439d_essay_3.pdf
 file_size: 17489
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

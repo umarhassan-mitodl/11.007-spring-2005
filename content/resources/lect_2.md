@@ -4,6 +4,8 @@ description: This resource contains discussion on topic 'Public vs. Private'.
 file: /courses/11-007-resolving-public-disputes-spring-2005/112e324e70164e25dfc8b5e4bcb97327_lect_2.pdf
 file_size: 16213
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains questions on topic 'resolving local disputes
 file: /courses/11-007-resolving-public-disputes-spring-2005/81504e25d6c79e6fd30326aa50d3b071_lect_18.pdf
 file_size: 10286
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

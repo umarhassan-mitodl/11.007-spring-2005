@@ -4,6 +4,8 @@ description: This resource contains the theory of delibrative democracy.
 file: /courses/11-007-resolving-public-disputes-spring-2005/ad7ca78d4ebc7d81502ef963e71426cf_lect_22.pdf
 file_size: 14015
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

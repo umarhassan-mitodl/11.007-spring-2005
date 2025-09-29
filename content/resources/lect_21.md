@@ -4,6 +4,8 @@ description: This resource explains the topic 'decision making by initiative'.
 file: /courses/11-007-resolving-public-disputes-spring-2005/012282beb4e68fcdf08abf1ec04d12b5_lect_21.pdf
 file_size: 11377
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
