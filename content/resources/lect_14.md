@@ -4,8 +4,6 @@ description: This resource gives overview on the topic 'Congressional Decision M
 file: /courses/11-007-resolving-public-disputes-spring-2005/b7027a8ed64702f0642d615f33871d5a_lect_14.pdf
 file_size: 16342
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

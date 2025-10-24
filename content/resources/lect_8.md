@@ -5,8 +5,6 @@ description: This resource contains some questions on "Defining Problems", Symbo
 file: /courses/11-007-resolving-public-disputes-spring-2005/5a337a526a516027c41c3cca1165c3e8_lect_8.pdf
 file_size: 14979
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

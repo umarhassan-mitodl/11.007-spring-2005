@@ -4,8 +4,6 @@ description: This resource contains some questions on the topic 'social security
 file: /courses/11-007-resolving-public-disputes-spring-2005/085fb5c29de66ebc8cd9dd146f099f64_lect_12.pdf
 file_size: 11550
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

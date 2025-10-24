@@ -4,8 +4,6 @@ description: This resource explains and compare the topics 'security and liberty
 file: /courses/11-007-resolving-public-disputes-spring-2005/98d44702b7d47e4169a8535b52748aa0_lect_4.pdf
 file_size: 17709
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: This resource contains instructions to be followed by the person wh
 file: /courses/11-007-resolving-public-disputes-spring-2005/0594474b15e5d1dd26945d637cfa8c83_peer_editing.pdf
 file_size: 18185
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

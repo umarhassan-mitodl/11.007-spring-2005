@@ -4,8 +4,6 @@ description: This resource explains and compare the topic 'equity and efficiency
 file: /courses/11-007-resolving-public-disputes-spring-2005/e40dc72c9c9b81391985264c8df6c81d_lect_3.pdf
 file_size: 14497
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

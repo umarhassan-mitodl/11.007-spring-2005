@@ -4,8 +4,6 @@ description: This resource explains the topic 'globalization'.
 file: /courses/11-007-resolving-public-disputes-spring-2005/e92038d7857554b65c4715d5d45f2924_lect_5.pdf
 file_size: 11669
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
